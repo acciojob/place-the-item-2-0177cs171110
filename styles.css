@@ -9,25 +9,26 @@
 	flex-wrap: wrap;
 	align-items: center; /* Center the items vertically */
     /* Just for visualization */
-    padding: 10px; 
+    padding: 5px; 
+
 	
 	
   }
   .item1 {
     margin: 0px; /* Add some margin between items for better spacing */
-    padding: 10px; /* Just for visualization */
+    padding: 30px; /* Just for visualization */
     border: 1px solid blue; /* Just for visualization */
 	  background-color: green
   }
  .item2 {
     margin: 0px; /* Add some margin between items for better spacing */
-    padding: 10px; /* Just for visualization */
+    padding: 30px; /* Just for visualization */
     border: 1px solid blue; /* Just for visualization */
 	  background-color: red;
   }
  .item3 {
     margin: 0px; /* Add some margin between items for better spacing */
-    padding: 10px; /* Just for visualization */
+    padding: 30px; /* Just for visualization */
     border: 1px solid blue; /* Just for visualization */
 	  background-color: blue;
   }
