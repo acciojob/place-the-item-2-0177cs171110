@@ -6,7 +6,7 @@
      /* Prevent wrapping to keep all items in a single row */
     /* border: 1px solid #ccc; /* Just for visualization */ */
      /* Just for visualization */
-	flex-wrap: nowrap;
+	flex-wrap: wrap;
 	align-items: center; /* Center the items vertically */
     /* Just for visualization */
     padding: 10px; 
@@ -14,19 +14,19 @@
 	
   }
   .item1 {
-    margin: 5px; /* Add some margin between items for better spacing */
+    margin: 0px; /* Add some margin between items for better spacing */
     padding: 10px; /* Just for visualization */
     border: 1px solid blue; /* Just for visualization */
 	  background-color: green
   }
  .item2 {
-    margin: 5px; /* Add some margin between items for better spacing */
+    margin: 0px; /* Add some margin between items for better spacing */
     padding: 10px; /* Just for visualization */
     border: 1px solid blue; /* Just for visualization */
 	  background-color: red;
   }
  .item3 {
-    margin: 5px; /* Add some margin between items for better spacing */
+    margin: 0px; /* Add some margin between items for better spacing */
     padding: 10px; /* Just for visualization */
     border: 1px solid blue; /* Just for visualization */
 	  background-color: blue;
