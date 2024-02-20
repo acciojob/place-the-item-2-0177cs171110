@@ -6,11 +6,11 @@
      /* Prevent wrapping to keep all items in a single row */
     /* border: 1px solid #ccc; /* Just for visualization */ */
      /* Just for visualization */
-	flex-wrap: wrap;
+	flex-wrap: nowrap;
 	align-items: center; /* Center the items vertically */
     /* Just for visualization */
-    padding: 5px; 
-
+    /* padding: 5px; 
+ */
 	
 	
   }
